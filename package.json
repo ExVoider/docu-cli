@@ -1,0 +1,16 @@
+{
+  "name": "docu-cli",
+  "version": "1.1.0",
+  "description": "A CLI tool that analyzes GitHub repos and generates operational guides.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "docu": "./index.js"
+  },
+  "dependencies": {
+    "@google/genai": "^1.46.0",
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "ora": "^8.0.1"
+  }
+}
