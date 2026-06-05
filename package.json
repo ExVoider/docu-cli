@@ -1,7 +1,7 @@
 {
   "name": "docu-cli",
-  "version": "1.1.0",
-  "description": "A CLI tool that analyzes GitHub repos and generates operational guides.",
+  "version": "3.0.0",
+  "description": "Enterprise-Grade Syntactic Codebase Analysis, Security Audit and Infrastructure Provisioning Engine",
   "main": "index.js",
   "type": "module",
   "bin": {
